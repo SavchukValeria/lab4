@@ -1,0 +1,8 @@
+C:\Users\leras\source\repos\lab4.3\lab4.3\obj\Debug\lab4.3.csproj.AssemblyReference.cache
+C:\Users\leras\source\repos\lab4.3\lab4.3\obj\Debug\lab4.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\leras\source\repos\lab4.3\lab4.3\obj\Debug\lab4.3.csproj.CoreCompileInputs.cache
+C:\Users\leras\source\repos\lab4.3\lab4.3\bin\Debug\lab4.3.exe.config
+C:\Users\leras\source\repos\lab4.3\lab4.3\bin\Debug\lab4.3.exe
+C:\Users\leras\source\repos\lab4.3\lab4.3\bin\Debug\lab4.3.pdb
+C:\Users\leras\source\repos\lab4.3\lab4.3\obj\Debug\lab4.3.exe
+C:\Users\leras\source\repos\lab4.3\lab4.3\obj\Debug\lab4.3.pdb
